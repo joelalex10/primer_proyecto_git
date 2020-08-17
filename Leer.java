@@ -10,6 +10,7 @@ public class Leer
       try
       {
        BufferedReader bf;
+//Encontrar el eeror
 	//texto basura
        bf=new BufferedReader(new InputStreamReader(System.in));
        sdato=bf.readLine();
