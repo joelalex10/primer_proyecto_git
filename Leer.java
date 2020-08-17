@@ -10,6 +10,7 @@ public class Leer
       try
       {
        BufferedReader bf;
+	//texto basura
        bf=new BufferedReader(new InputStreamReader(System.in));
        sdato=bf.readLine();
       }
